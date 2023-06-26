@@ -1,0 +1,9 @@
+{ "person_1" :
+	{ "name": "Karina" ,
+	  "surname": "Kostina" ,
+	  "age": 31 ,
+	  "pets": "none" ,
+	  "salary": "1000 $"
+	}
+
+}
