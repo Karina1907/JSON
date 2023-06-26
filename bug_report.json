@@ -1,1 +1,13 @@
-{bug_report:["number" ,"severity" ,"priority" , "enviroment" ,"title" ,"optional pre-condition" ,"STR" ,"AR" ,"ER" ,"Atachment"]}
+{bug_report:
+  {"number" ,
+    "severity" ,
+    "priority" , 
+    "enviroment" ,
+    "title" ,
+    "optional pre-condition" ,
+    "STR" ,
+    "AR" ,
+    "ER" ,
+    "Atachment"
+  }
+}
