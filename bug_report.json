@@ -1,11 +1,11 @@
 { bug_report :
   {"number": "",
     "severity": "",
-    "priority" "", 
+    "priority": "", 
     "environment": "",
     "title": "",
     "optional pre-condition": "",
-    "STR" :"",
+    "STR": "",
     "AR": "",
     "ER": "",
     "Attachment": ""
