@@ -1,0 +1,14 @@
+{"bug_report":
+  {"number" ,
+  "title" ,
+  "severity" ,
+  "priority" ,
+  "environment" ,
+  "optional pre-cond." ,
+  "STR" ,
+  "AR" ,
+  "ER" ,
+  "attachment" ,
+  "comments"
+  }
+}
